@@ -31,6 +31,8 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
+gem 'bootstrap-sass', '~> 3.3.7'
+gem 'bootstrap_form', '~> 2.5.2'
 
 gem 'comfortable_mexican_sofa', '~> 1.12.0'
 
